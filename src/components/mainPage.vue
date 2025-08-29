@@ -2,70 +2,52 @@
   <v-container class="px-6 reveal main-container">
     <div class="text-center top-container reveal">
       <div class="d-inline-block mt-6">
-        <v-img
-          src="/src/assets/mainPage.png"
-          width="290"
-          height="290"
-          class="rounded-xl"
-        ></v-img>
+        <v-img src="/src/assets/mainPage.png" width="290" height="290" class="rounded-xl"></v-img>
       </div>
       <div class="text-center mt-6 mb-16">
         <div class="fs-35 font-weight-bold">مجید خسروی</div>
         <div class="fs-25 my-4">۱۴۰۴ - ۱۳۲۶</div>
         <!-- <div class="fs-20 font-weight-bold">به یاد مهربانی‌های همیشگی</div> -->
-        <div >
-            <span>+ به یاد دارید؟</span>
-            <span class="mr-5 font-weight-bold fs-20">- تا زنده باشیم!</span>
+        <div>
+          <span>+ به یاد دارید؟</span>
+          <span class="mr-5 font-weight-bold fs-20">- تا زنده باشیم!</span>
         </div>
       </div>
     </div>
-<div class="reveal cccc pb-4 pt-7 mb-16">
-  <div class="w-100 reveal px-0">
-    <video 
-      class="rounded-xl" 
-     width="332"
-      height="190" 
-      controls 
-      >
-        <source src="https://aghajoon.s3.ir-thr-at1.arvanstorage.ir/telegram-cloud-document-4-5870879419257592411.mp4?versionId=" type="video/mp4">
+    <div class="reveal cccc pb-4 pt-7 mb-16">
+      <div class="w-100 reveal px-0">
+        <video class="rounded-xl" width="332" height="190" controls>
+          <source
+            src="https://aghajoon.s3.ir-thr-at1.arvanstorage.ir/telegram-cloud-document-4-5870879419257592411.mp4?versionId="
+            type="video/mp4">
           Your browser does not support the video tag.
-    </video>
-  </div>
-  <div class="mt-5 ml-8">
-    
-    <div>دیدن روی تو در خویش ز من خواب گرفت</div>
-    <div class="text-end my-3">
-      <div>آه از آیینه که تصویر تو را قاب گرفت</div>
-    </div>
-    <div>خواستم نوح شوم، موج غمت غرقم کرد</div>
-    <div class="text-end my-3">
+        </video>
+      </div>
+      <div class="mt-5 ml-8">
 
-      <div>کشتی‌ام را شب طوفانی گرداب گرفت</div>
+        <div>دیدن روی تو در خویش ز من خواب گرفت</div>
+        <div class="text-end my-3">
+          <div>آه از آیینه که تصویر تو را قاب گرفت</div>
+        </div>
+        <div>خواستم نوح شوم، موج غمت غرقم کرد</div>
+        <div class="text-end my-3">
+
+          <div>کشتی‌ام را شب طوفانی گرداب گرفت</div>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
 
     <div class="text-center">
       <div class="reveal">
         <div class="d-inline-block">
-          <v-img
-            src="/src/assets/yalda.jpg"
-            width="332"
-            height="332"
-            class="rounded-xl"
-            gradient="to top, rgba(20,22,29,.6), rgba(0,0,0,.0)"
-          ></v-img>
+          <v-img src="/src/assets/yalda.jpg" width="332" height="332" class="rounded-xl"
+            gradient="to top, rgba(20,22,29,.6), rgba(0,0,0,.0)"></v-img>
         </div>
       </div>
       <div class="reveal my-4">
         <div class="d-inline-block">
-          <v-img
-            src="/src/assets/redChair.jpg"
-            width="332"
-            height="332"
-            class="rounded-xl"
-            gradient="to top, rgba(20,22,29,.6), rgba(0,0,0,.0)"
-          ></v-img>
+          <v-img src="/src/assets/redChair.jpg" width="332" height="332" class="rounded-xl"
+            gradient="to top, rgba(20,22,29,.6), rgba(0,0,0,.0)"></v-img>
         </div>
       </div>
 
@@ -89,51 +71,45 @@
         </p>
       </v-card>
       <div class="reveal my-14">
-          <div class="d-inline-block">
-              <v-img
-              src="/src/assets/ghabr.jpg"
-              width="332"
-              height="332"
-              class="rounded-xl"
-              gradient="to top, rgba(20,22,29,.6), rgba(0,0,0,.0)"
-
-              ></v-img>
-            </div>
-          <div class="d-inline-block mt-4 mb-8">
-              <v-img
-              src="/src/assets/aroosi.jpeg"
-              width="332"
-              height="332"
-              class="rounded-xl"
-              gradient="to top, rgba(20,22,29,.6), rgba(0,0,0,.0)"
-
-              ></v-img>
-            </div>
-
-           
-          <div class="d-inline-block">
-              <v-img
-              src="/src/assets/poem.jpg"
-              width="332"
-              class="rounded-xl"
-              ></v-img>
-            </div>
+        <div class="d-inline-block">
+          <v-img src="/src/assets/ghabr.jpg" width="332" height="332" class="rounded-xl"
+            gradient="to top, rgba(20,22,29,.6), rgba(0,0,0,.0)"></v-img>
         </div>
-        <div class="end-page pt-4">
+        <div class="d-inline-block mt-4 mb-8">
+          <v-img src="/src/assets/aroosi.jpeg" width="332" height="332" class="rounded-xl"
+            gradient="to top, rgba(20,22,29,.6), rgba(0,0,0,.0)"></v-img>
+        </div>
+
+
+        <div class="d-inline-block">
+          <v-img src="/src/assets/poem.jpg" width="332" class="rounded-xl"></v-img>
+        </div>
+      </div>
+      <div class="end-page pt-4">
+        <div class="text-start mr-6 mt-2 font-weight-bold">
+             ساعت دیواری (محسن چاووشی) :
+            </div>
         <div class="w-100  reveal mt-4 px-0">
-            <iframe src="https://www.aparat.com/video/video/embed/videohash/awu68q8/vt/frame" class="rounded-xl" frameborder="0"  height="190" width="332" ></iframe>
-            </div>
-        <div class="w-100  reveal mt-4 pb-4">
-            <div class="mb-3 text-start font-weight-bold mr-6">
-                <div>
-                    سوره شمس :
-                </div>
-                </div>
-            <audio controls>
-                <source src="https://sedatoseda.com/wp-content/uploads/Abdul-Basit-Quran-16.mp3"></source>
-            </audio>
+          <audio controls>
+            <source
+              src="https://aghajoon.s3.ir-thr-at1.arvanstorage.ir/Mohsen%20Chavoshi%20-%20Saat%20Divari%20%5BSevilMusic%5D%20%5B128%5D.mp3?versionId="
+              type="video/mp4">
+            </source>
+          </audio>
+
         </div>
-    </div>
+        <div class="w-100  reveal mt-4 pb-4">
+          <div class="mb-3 text-start font-weight-bold mr-6">
+            <div>
+              سوره شمس :
+            </div>
+          </div>
+          <audio controls>
+            <source src="https://aghajoon.s3.ir-thr-at1.arvanstorage.ir/Abdul-Basit-Quran-16.mp3?versionId=">
+            </source>
+          </audio>
+        </div>
+      </div>
     </div>
   </v-container>
 </template>
@@ -163,11 +139,13 @@ onMounted(() => {
 html {
   scroll-behavior: smooth;
 }
+
 .reveal {
   opacity: 0;
   transform: translateY(18px);
   transition: opacity 0.8s ease, transform 0.8s ease;
 }
+
 .reveal.show {
   opacity: 1;
   transform: translateY(0);
@@ -182,13 +160,15 @@ html {
 .poem {
   line-height: 30px;
 }
-.end-page{
-    background-color: #E0E0E0;
-    margin: 10px -24px -24px -24px;
-}
-.cccc{
+
+.end-page {
   background-color: #E0E0E0;
-  margin: 0 -24px;
+  margin: 10px -28px -24px -24px;
+}
+
+.cccc {
+  background-color: #E0E0E0;
+  margin: 0 -28px;
   text-align: center;
 }
 </style>
