@@ -2,7 +2,7 @@
   <v-container class="px-6 reveal main-container">
     <div class="text-center top-container reveal">
       <div class="d-inline-block mt-6">
-        <v-img src="/src/assets/mainPage.png" width="290" height="290" class="rounded-xl"></v-img>
+        <v-img src="/src/assets/young.jpg" width="290" height="290" class="rounded-xl"></v-img>
       </div>
       <div class="text-center mt-6 mb-16">
         <div class="fs-35 font-weight-bold">مجید خسروی</div>
@@ -63,7 +63,7 @@
           دریغ کز شبی چنین سپیده سر نمی‌زند<br />
           <br />
           گذرگهی است پُر ستم که اندر او به غیر غم<br />
-          یک صلای آشنا به رهگذر نمی‌زند<br />
+          یکی صلای آشنا به رهگذر نمی‌زند<br />
           <br />
           دل خراب من دگر خراب‌تر نمی‌شود<br />
           که خنجر غمت از این خراب‌تر نمی‌زند<br />
