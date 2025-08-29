@@ -1,7 +1,7 @@
 <template>
   <v-container class="px-6 reveal main-container">
     <div class="text-center top-container reveal">
-      <div class="d-inline-block">
+      <div class="d-inline-block mt-6">
         <v-img
           src="/src/assets/mainPage.png"
           width="290"
@@ -19,6 +19,32 @@
         </div>
       </div>
     </div>
+<div class="reveal cccc pb-4 pt-7 mb-16">
+  <div class="w-100 reveal px-0">
+    <video 
+      class="rounded-xl" 
+     width="332"
+      height="190" 
+      controls 
+      >
+        <source src="https://aghajoon.s3.ir-thr-at1.arvanstorage.ir/telegram-cloud-document-4-5870879419257592411.mp4?versionId=" type="video/mp4">
+          Your browser does not support the video tag.
+    </video>
+  </div>
+  <div class="mt-5 ml-8">
+    
+    <div>دیدن روی تو در خویش ز من خواب گرفت</div>
+    <div class="text-end my-3">
+      <div>آه از آیینه که تصویر تو را قاب گرفت</div>
+    </div>
+    <div>خواستم نوح شوم، موج غمت غرقم کرد</div>
+    <div class="text-end my-3">
+
+      <div>کشتی‌ام را شب طوفانی گرداب گرفت</div>
+    </div>
+  </div>
+</div>
+
     <div class="text-center">
       <div class="reveal">
         <div class="d-inline-block">
@@ -43,7 +69,7 @@
         </div>
       </div>
 
-      <v-card class="reveal rounded-xl pt-4" color="#E0E0E0" elevation="10">
+      <v-card class="reveal pt-4 mx-n7" color="#E0E0E0" flat>
         <p class="poem">
           درین سرای بی کسی، کسی به در نمی‌زند<br />
           به دشتِ پُرملال ما پرنده پَر نمی‌زند<br />
@@ -73,7 +99,7 @@
 
               ></v-img>
             </div>
-          <div class="d-inline-block mt-4 mb-8x">
+          <div class="d-inline-block mt-4 mb-8">
               <v-img
               src="/src/assets/aroosi.jpeg"
               width="332"
@@ -84,10 +110,7 @@
               ></v-img>
             </div>
 
-            <div class="mb-6 mt-16 font-weight-bold">
-                <div class="mr-n6">زنده را تا زنده است باید به فریادش رسید</div>
-                <div class="mr-16 mt-3">ورنه بر سنگ مزارش آب پاشیدن چه سود؟</div>
-            </div>
+           
           <div class="d-inline-block">
               <v-img
               src="/src/assets/poem.jpg"
@@ -162,5 +185,10 @@ html {
 .end-page{
     background-color: #E0E0E0;
     margin: 10px -24px -24px -24px;
+}
+.cccc{
+  background-color: #E0E0E0;
+  margin: 0 -24px;
+  text-align: center;
 }
 </style>
