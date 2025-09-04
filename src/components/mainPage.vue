@@ -16,7 +16,7 @@
     </div>
     <div class="reveal cccc pb-4 pt-7 mb-16">
       <div class="w-100 reveal px-0">
-        <video class="rounded-xl" width="332" height="190" controls>
+        <video class="rounded-xl" width="332" height="190" controls controlslist="nodownload noremoteplayback" disablePictureInPicture>
           <source
             src="https://aghajoon.s3.ir-thr-at1.arvanstorage.ir/telegram-cloud-document-4-5870879419257592411.mp4?versionId="
             type="video/mp4">
